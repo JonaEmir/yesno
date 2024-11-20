@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     overflow: hidden;
-    background: red;
+    background: linear-gradient(135deg, #ff4d4d, #ff1a1a); /* Fondo rojo con degradado */
 }
 
 .container {
